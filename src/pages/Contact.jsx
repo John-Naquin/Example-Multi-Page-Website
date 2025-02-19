@@ -16,4 +16,4 @@ function Contact() {
     );
   }
   
-  export default Contact;2
+  export default Contact;
